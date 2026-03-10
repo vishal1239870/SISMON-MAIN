@@ -111,6 +111,7 @@ Final Video (MP4) → public/outputs/
 
 ### Step 1: Clone the Repository
 ```bash
+git clone https://github.com/vishal1239870/SISMON-MAIN
 cd sismon
 ```
 
